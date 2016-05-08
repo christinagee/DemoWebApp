@@ -25,8 +25,8 @@ app.get('/projects', function(request, response) {
   response.render('pages/projects');
 });
 
-app.get('/leadership', function(request, response) {
-  response.render('pages/leadership');
+app.get('/dogs', function(request, response) {
+  response.render('pages/dogs');
 });
 
 app.get('/contact', function(request, response) {
