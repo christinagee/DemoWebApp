@@ -1,6 +1,6 @@
 body {
   padding-top: 70px;
-  background-color: #B0C4DE;
+  background-color: #1C2236;
 
 }
 
@@ -16,7 +16,7 @@ main {
 }
 
 .jumbotron h1 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Helvetica';
 }
 
 .jumbotron i {
